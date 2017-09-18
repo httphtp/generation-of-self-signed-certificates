@@ -1,4 +1,4 @@
-## 1 open ca.cnf,server.cnf,client.cnf ,find [req_distinguished_name] change persional infomation to yourself.
+## 1 open ca.cnf,server.cnf,client.cnf ,find [req_distinguished_name] to change persional infomation for yourself.
 
 ## 2 just run  shell: 
 ``` bash
